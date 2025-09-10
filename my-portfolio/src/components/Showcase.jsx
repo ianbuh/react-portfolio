@@ -14,7 +14,7 @@ const projectsData = [
     id: 'Loan-Management-System', // Unique ID for routing
     title: 'Loan Manggement System',
     description: 'A comprehensive platform for monitoring loans, tracking due dates, and streamlining employee management with efficiency and accuracy.',
-    stack: ['PHP', 'SQL'],
+    stack: ['ReactJs', 'SQL' , 'tailwindcss', 'javascript', 'GitHub'],
   },
   {
     id: 'sales-dashboard',
