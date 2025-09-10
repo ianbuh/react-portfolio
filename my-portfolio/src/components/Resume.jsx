@@ -26,9 +26,7 @@ const Resume = () => {
           <div className="md:col-span-1 bg-gray-200 p-8 rounded-lg">
             <h3 className="text-2xl font-bold border-b-2 border-gray-400 pb-2 mb-6">CONTACT</h3>
             <ul className="space-y-4">
-              <li className="flex items-center"><FaPhone className="mr-3 text-gray-600" /> +639561696763</li>
               <li className="flex items-center"><FaEnvelope className="mr-3 text-gray-600" /> paul.faustino1424@gmail.com</li>
-              <li className="flex items-center"><FaMapMarkerAlt className="mr-3 text-gray-600" /> 137 J miranda St Cavite City</li>
               <li className="flex items-center"><FaLinkedin className="mr-3 text-gray-600" /> <a href="https://www.linkedin.com/in/paul-christian-faustino-774712251/" target="_blank" rel="noopener noreferrer" className="hover:underline break-all">linkedin.com/in/paul-christian-faustino</a></li>
             </ul>
 
