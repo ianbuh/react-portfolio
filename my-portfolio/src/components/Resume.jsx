@@ -47,7 +47,6 @@ const Resume = () => {
             <h3 className="text-2xl font-bold border-b-2 border-gray-400 pb-2 my-6">REFERENCE</h3>
             <p className="font-bold">Don Cachuela</p>
             <p>Accenture / Associate Manager II</p>
-            <p>Phone: 09688525979</p>
             <p className="break-all">Email: doncachuela@gmail.com</p>
           </div>
 
